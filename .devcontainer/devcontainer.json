@@ -5,7 +5,6 @@
     ],
     "service": "workspace",
     "workspaceFolder": "/var/www",
-    "remoteUser": "vscode",
 
     "customizations": {
         "vscode": {
